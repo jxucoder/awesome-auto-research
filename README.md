@@ -1,6 +1,6 @@
 # awesome-auto-research
 
-A curated list of papers and tools on automated AI research.
+A curated list of papers and tools on automated research.
 
 ---
 
