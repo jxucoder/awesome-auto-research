@@ -13,6 +13,8 @@ A curated list of tools, papers, and resources on automated AI research — wher
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) — The Ralph Wiggum Technique playbook for autonomous AI dev loops. ⭐1.4k
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — End-to-end automated scientific discovery: idea → experiment → paper → peer review. ~$15/paper.
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — Template-free agentic tree search; first AI-generated paper to pass peer review at ICLR 2025 workshop.
+- [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) - Autonomous research orchestrator built around reusable prompt loops, with deployments across more than ten research fields. [Paper](https://arxiv.org/abs/2606.24177)
+- [Daviddjddu/Autonumerics](https://github.com/Daviddjddu/Autonumerics) - Multi-agent pipeline that turns natural-language PDE problems into classical numerical solvers and checks them with residual-based verification. [Paper](https://arxiv.org/abs/2602.17607)
 
 ## Platform Forks
 
@@ -32,6 +34,7 @@ A curated list of tools, papers, and resources on automated AI research — wher
 - [Can LLMs Generate Novel Research Ideas?](https://arxiv.org/abs/2409.04109) — Large-scale human study with 100+ NLP researchers. LLM ideas judged significantly more novel than expert ideas.
 - [The Ideation-Execution Gap](https://arxiv.org/abs/2506.20803) — 43 researchers execute LLM vs. human ideas; LLM ideas show greater score drops after execution. (ICLR 2026)
 - [Predicting Empirical AI Research Outcomes with Language Models](https://arxiv.org/abs/2506.00794) — Fine-tuned model predicts which ideas will work (77% accuracy vs. ~49% for human experts). (NeurIPS 2025)
+- [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://haizhaoyang.github.io/research/autoresearch-survey.html) - Systematizes 56 autonomous research systems along seven axes and separates systems that produce research artefacts from those that can verify them before release.
 
 ## References
 
